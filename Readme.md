@@ -1,7 +1,7 @@
 ### Includes:
 
 <details>
-<summary>45 New Cards:
+<summary>402 New Cards:
 </summary>
 
 |Name|Power|Health|Cost|Sigils|Evolution|Frozen Away|Tail|Specials|Traits|Tribes|
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary>10 New Rare Cards:
+<summary>163 New Rare Cards:
 </summary>
 
 |Name|Power|Health|Cost|Sigils|Evolution|Frozen Away|Tail|Specials|Traits|Tribes|
